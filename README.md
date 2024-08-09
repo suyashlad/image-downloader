@@ -27,4 +27,6 @@ A Python script for downloading, converting, resizing, and processing images fro
   ```bash
    Copy code
    pip install -r requirements.txt
-![image](https://github.com/user-attachments/assets/8520511c-ac09-41b3-93c6-27efd33cfc70)
+
+
+![Screenshot 2024-08-09 144048](https://github.com/user-attachments/assets/f3a988ba-ec3b-4193-a3bb-04904c4fe440)
