@@ -31,3 +31,12 @@ A Python script for downloading, converting, resizing, and processing images fro
 
 ## UI 
 ![Screenshot 2024-08-09 144048](https://github.com/user-attachments/assets/f3a988ba-ec3b-4193-a3bb-04904c4fe440)
+
+## video of run envirome
+
+
+
+
+https://github.com/user-attachments/assets/23c38386-2aa6-44e7-934b-5c7200da4c10
+
+
