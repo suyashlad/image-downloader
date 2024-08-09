@@ -23,10 +23,11 @@ A Python script for downloading, converting, resizing, and processing images fro
    ```bash
    git clone https://github.com/your-username/image-downloader.git
    cd image-downloader
-2.Install the dependencies:
-  ```bash
-   Copy code
-   pip install -r requirements.txt
+ 2.Install the dependencies:
+    ```bash
+    
+      Copy code
+      pip install -r requirements.txt
 
 
 ![Screenshot 2024-08-09 144048](https://github.com/user-attachments/assets/f3a988ba-ec3b-4193-a3bb-04904c4fe440)
